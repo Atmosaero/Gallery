@@ -1,0 +1,47 @@
+/* Some customisation for the Photologue demo site. */
+
+/* Page structure */
+.container-fluid img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 0.25rem;
+}
+
+/* Photo galleries */
+.gallery-sample {
+    margin-bottom: 2rem;
+}
+
+a.btn {
+    margin-top: 2rem;
+}
+
+td {
+    width: 100px;
+}
+
+.gallery-sample a {
+    text-decoration: none;
+}
+
+.gallery-list a {
+    text-decoration: none;
+}
+
+.photo-list a {
+    text-decoration: none;
+}
+
+ul.pagination {
+    margin-top: 6rem;
+}
+
+.img-thumbnail {
+    margin-bottom: 1rem;
+}
